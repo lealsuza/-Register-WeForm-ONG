@@ -1,2 +1,2 @@
 # -Register-WeForm-ONG
-Projeto criado apenas com HTML e CSS.
+Projeto de cadastro criado apenas com HTML e CSS.
