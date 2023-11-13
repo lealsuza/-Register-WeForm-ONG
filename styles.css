@@ -4,3 +4,11 @@ aside h1 {
   font-weight: 500;
   line-height: 75px;
 }
+
+aside h1 span {
+  color: #FF5678;
+}
+
+main {
+  
+}
