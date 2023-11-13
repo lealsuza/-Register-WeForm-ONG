@@ -30,6 +30,7 @@ main {
 
 aside {
   grid-area: hero;
+  margin-top: 10rem;
 }
 
 aside h1 {
@@ -37,6 +38,7 @@ aside h1 {
   font-size: 64px;
   font-weight: 500;
   line-height: 75px;
+  padding-left: 6.5rem;
 }
 
 aside h1 span, main h2 span {
@@ -49,6 +51,7 @@ main {
   border: 0.1rem solid rgba(0, 0, 0, 0.15);
   padding: 5.7rem 4.4rem;
   border-radius: 1.2rem;
+  margin-top: 10rem;
 }
 
 main h2 {
