@@ -1,5 +1,19 @@
-aside h1 {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
   font-family: 'Roboto', sans-serif;
+}
+
+aside h1 {
+  
   font-size: 64px;
   font-weight: 500;
   line-height: 75px;
@@ -10,7 +24,13 @@ aside h1 span {
 }
 
 main {
-  width: 600px;
-  height: 520px;
-  border: 1px solid rgba(0, 0, 0, 0.15);
+  width: 60rem;
+  height: 52rem;
+  border: 0.1rem solid rgba(0, 0, 0, 0.15);
+}
+
+main h2 {
+  width: 43rem;
+  font-size: 3.6rem;
+  font-weight: 500;
 }
